@@ -1,6 +1,6 @@
 tensorflow==2.8.0
-keras==2.8.0
 h5py==3.7.0
 numpy<2
 flask==3.0.0
 gunicorn
+
