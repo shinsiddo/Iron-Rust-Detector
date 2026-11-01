@@ -3,4 +3,6 @@ h5py==3.7.0
 numpy<2
 flask==3.0.0
 gunicorn
+Pillow
+protobuf<3.21
 
